@@ -1,1 +1,1 @@
-UPDATE characters SET species = 'Martian' HAVING MAX(id);
+learnUPDATE characters SET species = 'Martian' HAVING MAX(id);
